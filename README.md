@@ -30,16 +30,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment]
 
-## Features
-
-- User login and signup
-- Home page with background image and search box
-- Search page for flights and hotels
-- Filters for destination, date, and price
-- Booking form with user details and confirmation
-- Admin panel to manage listings (add/edit/delete)
-- Wishlist and offers section
-- Fully responsive design using plain CSS
 
 ## Live Link
 https://project-24jb.vercel.app/ 
